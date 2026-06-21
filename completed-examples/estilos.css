@@ -1,0 +1,76 @@
+﻿/* 1. Configuración general para toda la página */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eef2f7; /* Un fondo gris azulado muy suave */
+    color: #333333;           /* Color del texto principal */
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Estilo del Encabezado (Header) */
+header {
+    background-color: #1e90ff; /* Azul brillante */
+    color: white;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 5px 0 0 0;
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+/* 3. Estilo de la zona principal y la tarjeta de contenido */
+main {
+    padding: 40px 20px;
+}
+
+.tarjeta {
+    background-color: white;
+    max-width: 600px;         /* Limita el ancho para que se vea ordenado */
+    margin: 0 auto;           /* Centra la tarjeta en la pantalla */
+    padding: 30px;
+    border-radius: 15px;      /* Bordes redondeados modernos */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.tarjeta h2 {
+    color: #2ed573;           /* Título verde llamativo */
+    margin-top: 0;
+}
+
+/* 4. Estilo de la imagen */
+.foto-mascota {
+    width: 100%;              /* Hace que la imagen se adapte al ancho de la tarjeta */
+    height: auto;
+    border-radius: 10px;      /* Bordes redondeados para la foto */
+    margin: 15px 0;
+}
+
+/* 5. Estilo de las listas */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+}
+
+/* 6. Estilo del Pie de Página (Footer) */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2f3542; /* Gris oscuro profesional */
+    color: #ffffff;
+    font-size: 0.9rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
