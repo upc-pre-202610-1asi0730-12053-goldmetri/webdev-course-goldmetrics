@@ -21,13 +21,13 @@ Sin instalaciones: No necesitas programas complejos; los navegadores (Chrome, Fi
 - **Descripción**: Aprende la estructura base de un documento HTML desde cero. Construye tu primera página web con párrafos, imágenes y enlaces usando la práctica "Animales del Hogar".
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
 - **Consejos clave**: Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<p>`, `<img>`, `<a>`, `<br>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Course-Gm/pen/azpJRQB) 👈 **¡No necesitas registrarte!**
   
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Domina los encabezados (`<h1>` a `<h6>`), listas ordenadas y desordenadas. Integra todos los elementos en la práctica "Libros que te Gusten" creando una biblioteca digital.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<strong>`, `<div>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/Course-Gm/pen/VYPpEVr) 👈 **¡No necesitas registrarte!**
 
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: ¿Cansado de que tus páginas web parezcan un esqueleto aburrido? En esta lección aprenderás a usar CSS (Cascading Style Sheets), el lenguaje de diseño que permite controlar el aspecto visual de tus sitios. Veremos cómo conectar tu código, la anatomía de una línea de CSS y la diferencia entre seleccionar por etiqueta o por clase para que tus proyectos pasen de "texto plano" a "diseño profesional".
@@ -36,7 +36,7 @@ Sin instalaciones: No necesitas programas complejos; los navegadores (Chrome, Fi
 La anatomía perfecta: Una regla de CSS siempre tiene un selector (a quién cambiamos), una propiedad (qué característica cambiamos) y un valor (cómo se verá el cambio).
 El punto es la clave: Para aplicar estilos a una clase específica en CSS, siempre debes empezar el nombre con un punto (.).
 Orden profesional: Aunque existen varias formas de agregar estilos, la manera más limpia es referenciar un archivo externo..
-- **Práctica**: ¡Empieza a programar ahora! (No requiere descargas ni registro): Haz clic en el siguiente enlace para abrir el editor en línea con los archivos base de nuestra práctica de "El Mundo de las Témperas": [Clic para programar](https://codepen.io/Course-Gm/pen/ZYLeBGd)
+- **Práctica**: ¡Empieza a programar ahora! (No requiere descargas ni registro): Haz clic en el siguiente enlace para abrir el editor en línea con los archivos base de nuestra práctica de "El Mundo de las Témperas": [Clic para programar](https://codepen.io/Course-Gm/pen/RNKpYLr)
 
 ### Lección 5: Estilo Simple (8 minutos)
 - **Descripción**: ¿Ya conoces las bases de CSS pero quieres llevar tu página al siguiente nivel? En esta lección aprenderás técnicas simples pero súper efectivas: cómo centrar contenido para resaltar lo importante, las distintas formas de aplicar color, cómo dar estilo a los bordes (rectos y redondeados) y cómo manejar el espaciado con padding y margin, para que tus páginas dejen de verse apretadas y empiecen a verse profesionales.
@@ -46,7 +46,7 @@ Orden profesional: Aunque existen varias formas de agregar estilos, la manera m�
 La fórmula del borde: Todo borde se arma igual: ancho | estilo | color. Cambia esos 3 valores y dominarás solid, dashed y dotted.
 Adentro vs afuera: Si quieres recordar la diferencia para siempre — padding es para adentro, margin es para afuera..
 - **Proyecto Final**:¡Empieza a programar ahora! (No requiere descargas ni registro): Haz clic en el siguiente enlace para abrir el editor en línea con los archivos base de nuestra práctica de "Mis Bandas Favoritas":
-[Ver la lección](https://codepen.io/Course-Gm/pen/myRWGBP )
+[Ver la lección](https://codepen.io/Course-Gm/pen/myRWGBP)
 
 ### Lección 6: Crear una página web sencilla (15 minutos)
 - **Descripción**: Aa.
@@ -54,7 +54,7 @@ Adentro vs afuera: Si quieres recordar la diferencia para siempre — padding es
 - **Consejos clave**: Aa.
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
   
-### Lección 7: Consejos y Próximos Pasos (10 minutos)
+### Lección 7: Consejos y Próximos Pasos (5 minutos)
 - **Descripción**: ¡Felicidades por llegar al final! En esta lección de cierre, haremos un repaso de los conceptos fundamentales de HTML y CSS que exploramos durante el curso. 
 No te preocupes si algo no salió bien a la primera; aprender a programar implica enfrentarse a desafíos. Analizaremos los "bugs" o errores más comunes que cometen los principiantes —como olvidar el cierre de una etiqueta o escribir mal un atributo— y te daremos las mejores recomendaciones para que sigas mejorando tus habilidades digitales.
 - **Enlace**: [Ver Lección](https://youtu.be/gHqPT2egiDY)
@@ -71,11 +71,13 @@ Práctica constante: No tengas miedo de equivocarte. Intenta resolver los proble
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| 1 | ¡Esta es la lección 1! | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOwE) |
+| 2 | Mi primera página | [CodePen](https://codepen.io/Course-Gm/pen/azpJRQB) |
+| 3 | Mis libros favoritos | [CodePen](https://codepen.io/Course-Gm/pen/VYPpEVr) |
+| 4 | Mis temperas favoritas | [CodePen](https://codepen.io/Course-Gm/pen/RNKpYLr) |
+| 5 | Mis bandas favoritas | [CodePen](https://codepen.io/Course-Gm/pen/myRWGBP) |
+| 6 | AA | [CodePen](Link) |
+| 7 | Errorres comunes  de HTML y CSS | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOMo) |
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
@@ -90,10 +92,10 @@ NRC 12053
 **Líder del equipo**: Philco Mota, Katty Yolanda 
 **Integrantes del equipo**: 
 
-- Armestar, Adrián
+- Armestar Felipa, Adrián Andres
 - García Paredes, Victor Manuel
-- Navarro, Carolina
+- Navarro Aldoradin, Carolina Celeste
 - Philco Mota, Katty Yolanda
-- Tuesta, Kiara
+- Tuesta Girón, Kiara Lucia
 
-**Fecha de entrega**: [Fecha]
+**Fecha de entrega**: 21 de junio del 2026
