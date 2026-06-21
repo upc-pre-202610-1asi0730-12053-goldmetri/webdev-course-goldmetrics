@@ -14,14 +14,14 @@ requiere descargas!** Solo abre tu navegador web.
 - **Consejos clave**: Aa.
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
 ### Lección 2: Introducción a HTML (10 minutos)
-- **Descripción**: Aa.
+- **Descripción**: Aprende la estructura base de un documento HTML desde cero. Construye tu primera página web con párrafos, imágenes y enlaces usando la práctica "Animales del Hogar".
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Consejos clave**: Aa.
+- **Consejos clave**: Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<p>`, `<img>`, `<a>`, `<br>`.
 - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
-- **Descripción**: Aa.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Consejos clave**: Aa.
+- **Descripción**: Domina los encabezados (`<h1>` a `<h6>`), listas ordenadas y desordenadas. Integra todos los elementos en la práctica "Libros que te Gusten" creando una biblioteca digital.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Consejos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<strong>`, `<div>`.
 - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Aa.
