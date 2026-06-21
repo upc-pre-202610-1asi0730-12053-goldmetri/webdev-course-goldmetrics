@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Errores Comunes HTML y CSS</title>
+</head>
+<body>
+
+    <h1>Errores Comunes en HTML y CSS SOLUCIONARIO</h1>
+
+    <!-- ===================================================== -->
+    <!-- Error 1: Cierre incorrecto de etiquetas -->
+    <!-- ===================================================== -->
+    <h2>¿Por qué esta mal?</h2>
+
+    <!--<p>Hola mundo-->
+
+    <h3>Falta la etiqueta de cierre</h3>
+    <h3>La version correcta es:</h3>
+    <p>Hola mundo</p>
+
+    <!-- ===================================================== -->
+    <!-- Error 2: Orden incorrecto de etiquetas -->
+    <!-- ===================================================== -->
+
+    <h2>¿Cuál es el error?</h2>
+
+    <!--<b><i>Texto</b></i>-->
+    
+    <!--
+    La etiqueta <i> se abrió después de <b>,
+    por lo tanto debe cerrarse primero.
+    -->
+
+    <!--EJEMPLO CORRECTO:-->
+    <b><i>Texto</i></b>
+
+    <!-- ===================================================== -->
+    <!-- Error 3: Nomenclatura incorrecta de etiquetas o atributos -->
+    <!-- ===================================================== -->
+    <h2>Identifica el correcto</h2>
+
+    <!--<imgg src="foto.png">-->
+
+    <!--<img src="foto.png">-->
+
+    <!--<img sorce="foto.png">-->
+
+    <p>La etiqueta correcta es:</p>
+    <img src="foto.png">
+    <p>por la nomenclatura correcta.</p>
+
+
+    <!-- ===================================================== -->
+    <!-- Error 4: El diseño no se aplica -->
+    <!-- ===================================================== -->
+    <h2>¿Por qué el diseño no aplica?</h2>
+    
+    <!--
+    HTML:
+    <h1 class="titulo">Hola Mundo</h1>
+    -->
+
+    <!--
+    CSS:
+    .titlo {
+        color: blue;
+    }
+    -->
+    
+    <p>El nombre de la clase no coincide.</p>
+
+    <h3>CSS INCORRECTO:</h3>
+    <!--
+    .titlo {
+        color: blue;
+    }
+
+    HTML usa:
+    class="titulo"
+
+    CSS usa:
+    .titlo
+
+    Falta la letra "u".
+    -->
+
+    <h3>CSS CORRECTO:</h3>
+    <!--
+    .titulo {
+        color: blue;
+    }
+    -->
+ 
+</body>
+</html>
