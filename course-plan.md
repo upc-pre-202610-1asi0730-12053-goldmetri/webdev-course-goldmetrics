@@ -17,15 +17,15 @@ Frontend vs. Backend: El Frontend es la fachada o el comedor que los clientes ve
 Sin instalaciones: No necesitas programas complejos; los navegadores (Chrome, Firefox, Edge) son las únicas herramientas necesarias para interpretar el código.
 - **Empieza a programar**: ¡Empieza a explorar ahora! (Sin descargas ni registros): Haz clic en el siguiente enlace para abrir el editor en línea y ver tus primeros ejemplos de estructura web: [Open CodePen](https://codepen.io/Course-Gm/pen/NPdpOwE)
 
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML (7 minutos)
 - **Descripción**: Aprende la estructura base de un documento HTML desde cero. Construye tu primera página web con párrafos, imágenes y enlaces usando la práctica "Animales del Hogar".
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/97wj4S55iOk)
 - **Consejos clave**: Usa `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`, `<p>`, `<img>`, `<a>`, `<br>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Course-Gm/pen/azpJRQB) 👈 **¡No necesitas registrarte!**
   
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Domina los encabezados (`<h1>` a `<h6>`), listas ordenadas y desordenadas. Integra todos los elementos en la práctica "Libros que te Gusten" creando una biblioteca digital.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/MTrZtlQZ7-w)
 - **Consejos clave**: Usa `<h1>`–`<h6>`, `<ul>`, `<ol>`, `<li>`, `<strong>`, `<div>`.
 - **Práctica**: [Clic para programar](https://codepen.io/Course-Gm/pen/VYPpEVr) 👈 **¡No necesitas registrarte!**
 
@@ -49,10 +49,13 @@ Adentro vs afuera: Si quieres recordar la diferencia para siempre — padding es
 [Ver la lección](https://codepen.io/Course-Gm/pen/myRWGBP)
 
 ### Lección 6: Crear una página web sencilla (15 minutos)
-- **Descripción**: Aa.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Consejos clave**: Aa.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Descripción**: Aprende los fundamentos de HTML y CSS creando tu primera estructura web desde cero. Conoce las etiquetas esenciales para añadir textos, títulos e imágenes, y cómo darle un estilo básico.
+- **Enlace**: [Ver la lección](https://youtu.be/CNpSmDzh5Lc)
+- **Consejos clave**:
+Mantén tu código ordenado abriendo y cerrando siempre las etiquetas HTML (<p>...</p>).
+Usa nombres de clases claros en CSS para que sea fácil aplicar los estilos.
+Prueba los cambios en el navegador de CodePen constantemente para ver cómo va quedando.- **Proyecto Final**: ¡Empieza a programar ahora! (No requiere descargas ni registro): Haz clic en el siguiente enlace para abrir el editor en línea con los archivos base de nuestra práctica de "Mis Bandas Favoritas":
+[Ver la lección](https://codepen.io/Course-Gm/pen/NPdpELxhttps://codepen.io/Course-Gm/pen/NPdpELx) 👈 **¡Guarda y comparte!**
   
 ### Lección 7: Consejos y Próximos Pasos (5 minutos)
 - **Descripción**: ¡Felicidades por llegar al final! En esta lección de cierre, haremos un repaso de los conceptos fundamentales de HTML y CSS que exploramos durante el curso. 
@@ -76,9 +79,8 @@ Práctica constante: No tengas miedo de equivocarte. Intenta resolver los proble
 | 3 | Mis libros favoritos | [CodePen](https://codepen.io/Course-Gm/pen/VYPpEVr) |
 | 4 | Mis temperas favoritas | [CodePen](https://codepen.io/Course-Gm/pen/RNKpYLr) |
 | 5 | Mis bandas favoritas | [CodePen](https://codepen.io/Course-Gm/pen/myRWGBP) |
-| 6 | AA | [CodePen](Link) |
+| 6 | Mi primera página web | [CodePen](https://codepen.io/Course-Gm/pen/NPdpELx) |
 | 7 | Errorres comunes  de HTML y CSS | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOMo) |
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
 ---

@@ -36,12 +36,12 @@ No necesitas instalar nada. Abre los archivos `.html` directamente en tu navegad
 
 | # | Tema | Duración | Video | Práctica |
 |---|------|----------|-------|----------|
-| 1 | ¿Qué es el desarrollo web? | 5 min | [Ver](https://youtu.be/7rcnYVt0u8c) | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOwE) |
-| 2 | Introducción a HTML | 10 min | [Ver](https://www.youtube.com/watch?v=example-link2) | [CodePen](https://codepen.io/Course-Gm/pen/azpJRQB) |
+| 1 | ¿Qué es el desarrollo web? | 5 min | [Ver](https://youtu.be/qKE9cU-Cqvc) | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOwE) |
+| 2 | Introducción a HTML | 7 min | [Ver](https://youtu.be/97wj4S55iOk) | [CodePen](https://codepen.io/Course-Gm/pen/azpJRQB) |
 | 3 | Añadir más elementos HTML | 8 min | [Ver](https://www.youtube.com/watch?v=example-link3) | [CodePen](https://codepen.io/Course-Gm/pen/VYPpEVr) |
 | 4 | Introducción a CSS | 10 min | [Ver](https://youtu.be/KuApcleVRDM) | [CodePen](https://codepen.io/Course-Gm/pen/RNKpYLr) |
 | 5 | Estilo Simple | 8 min | [Ver](https://youtu.be/7rcnYVt0u8c) | [CodePen](https://codepen.io/Course-Gm/pen/myRWGBP) |
-| 6 | Crear una página web sencilla | 15 min | [Ver](https://www.youtube.com/watch?v=example-link5) | [Replit](https://replit.com/@your-final-project) |
+| 6 | Crear una página web sencilla | 12 min | [Ver](https://youtu.be/CNpSmDzh5Lc) | [CodePen](https://replit.com/@your-final-project) |
 | 7 | Consejos y próximos pasos | 5 min | [Ver](https://youtu.be/gHqPT2egiDY) | [CodePen](https://codepen.io/Course-Gm/pen/NPdpOMo) |
 
 ---
@@ -102,7 +102,7 @@ Domina los encabezados (`<h1>` a `<h6>`), listas ordenadas y desordenadas. Integ
 
 Pon en práctica todo lo aprendido construyendo tu propio proyecto final desde cero.
 
-**Proyecto final:** [Crea tu Perfil](https://replit.com/@your-final-project) — ¡guarda y comparte!
+**Proyecto final:** [Crea tu Página](https://codepen.io/Course-Gm/pen/NPdpOMo) — ¡guarda y comparte!
 
 ---
 
@@ -121,7 +121,6 @@ Pon en práctica todo lo aprendido construyendo tu propio proyecto final desde c
 ## 🧰 Recursos adicionales
 
 - **Código fuente completo:** [Repositorio de GitHub](https://github.com/upc-pre-202610-1asi0730-12053-goldmetri/webdev-course-goldmetrics.git)
-- **Cuestionario:** [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Comparte:** `#WebDevBeginners`
 
 **¡Gracias por completar el curso!**
